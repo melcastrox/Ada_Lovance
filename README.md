@@ -1,14 +1,14 @@
-# 🌐 Front-End: Minha Primeira Página Web
+# 🌐 Front-End: Desenvolvimento de Site
 
-Projeto desenvolvido como parte da **Turma de Novembro de 2025**, com o objetivo de praticar os primeiros conceitos de **desenvolvimento Front-End**.
+Projeto desenvolvido no curso de **Front-End**, turma de **Novembro de 2025**, com foco no **desenvolvimento de um site utilizando tecnologias web**.
 
 ---
 
 ## 📌 Sobre o projeto
 
-Esta é a minha **primeira página web**, criada para aplicar na prática os conhecimentos iniciais de HTML, CSS e organização de arquivos.
+Este projeto consiste no desenvolvimento de um site informativo sobre **Ada Lovelace**, uma das mulheres mais importantes da história da tecnologia.
 
-O site apresenta informações sobre **Ada Lovelace**, uma das mulheres mais importantes da história da tecnologia, destacando sua infância, juventude e vida adulta.
+O site foi construído utilizando HTML, CSS e JavaScript, com navegação por âncoras e organização de arquivos seguindo boas práticas de desenvolvimento Front-End.
 
 ---
 
@@ -16,9 +16,11 @@ O site apresenta informações sobre **Ada Lovelace**, uma das mulheres mais imp
 
 - HTML5  
 - CSS3  
-- JavaScript (básico)  
+- JavaScript  
 
 ---
 
 ## 📁 Estrutura do projeto
+
+
 
