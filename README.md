@@ -28,7 +28,6 @@ O site foi construído utilizando HTML, CSS e JavaScript, com navegação por â
 
 ---
 
-## 📁 Estrutura do projeto
 
 
 
