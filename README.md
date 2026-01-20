@@ -19,6 +19,14 @@ O site foi construído utilizando HTML, CSS e JavaScript, com navegação por â
 - JavaScript  
 
 ---
+## 🎯 Objetivo do projeto
+
+- Desenvolver um site utilizando HTML, CSS e JavaScript
+- Aplicar conceitos básicos de Front-End
+- Organizar arquivos de um projeto web
+- Utilizar Git e GitHub para versionamento de código
+
+---
 
 ## 📁 Estrutura do projeto
 
